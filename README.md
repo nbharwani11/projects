@@ -6,7 +6,7 @@
 - CS 2270: Data Structures (C++)
 
 Coming Soon!
-- CS 2400: Fundamentals of Computer Systems (Assembly, VHDL)
+- CS 2400: Fundamentals of Computer Systems (C, Assembly, VHDL)
 - CS 3022: Probability and Statistics for Computer Science (Python)
 - CS 3104: Algorithms (Python)
 - CS 3155: Principles of Programming Languages

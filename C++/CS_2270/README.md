@@ -1,3 +1,3 @@
 # CS 2270: Data Structures (C++)
 
-As an introductory class
+As an introductory class, assignemnts, dfghjk

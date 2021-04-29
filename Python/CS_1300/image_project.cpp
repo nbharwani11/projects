@@ -1,21 +1,8 @@
-/*
-main.cpp
-CSPB 1300 Image Processing Application
 
-PLEASE FILL OUT THIS SECTION PRIOR TO SUBMISSION
-
-- Your name:
-    <Naureen Bharwani>
-
-- All project requirements fully met? (YES or NO):
-    <YES>
-
-- If no, please explain what you could not get to work:
-    <ANSWER>
-
-- Did you do any optional enhancements? If so, please explain:
-    <NO>
-*/
+// CSPB 1300 Image Processing Application
+// <Naureen Bharwani>
+// 1300 Final Project
+// Due: Dec 14th, 2020
 
 #include <iomanip>
 #include <iostream>
